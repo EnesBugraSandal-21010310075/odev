@@ -1,0 +1,9 @@
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.exe.config
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.exe
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\bin\Debug\Ödev 1.pdb
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.csprojResolveAssemblyReference.cache
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev_1.Form1.resources
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev_1.Properties.Resources.resources
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.csproj.GenerateResource.Cache
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.exe
+C:\Users\alime\Desktop\C# Ödevler\Ödev 1\Ödev 1\obj\Debug\Ödev 1.pdb
